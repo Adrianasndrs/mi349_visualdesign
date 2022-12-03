@@ -1,0 +1,18 @@
+html{
+    background-color: #c2c2c2;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    color: lightgray;
+    border-top: 5pc solid #242424;
+    border-radius: 15px;
+    background-color: #242424;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
